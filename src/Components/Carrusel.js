@@ -20,8 +20,15 @@ const Carrusel = () => {
         <div class="carousel-item white white-text" href="#one!">
           <img src={banner} alt=""></img> <h2></h2>
         </div>
-      </div>
+        <div class="carousel-fixed-item center">
+        </div>
+        <div class="carousel-item white white-text" href="#two!">
+          <img src={banner} alt=""></img> <h2></h2>
+        </div>
 
+        
+      </div>
+      
 
     </div>
 
