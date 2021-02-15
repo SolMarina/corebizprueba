@@ -1,0 +1,14 @@
+.imgFoo{
+    display: flex;
+    flex-flow: column;
+   
+    padding: 10px
+}
+.imglogos{
+   display: flex;
+  flex: 1 1 auto
+}
+
+.img1{
+    flex: 1 1 auto
+}

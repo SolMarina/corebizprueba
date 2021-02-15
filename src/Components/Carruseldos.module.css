@@ -1,7 +1,19 @@
 .boximg{
 
-
-padding-top: 10%;
+background-color:white;
 
 }
 
+.but{
+color:#ffffff;
+background-color:black;
+border-color:black;
+border-width: 3px;
+border-style: solid;
+border-radius: 5px;
+}
+
+.imgcard{
+    border-style: solid;
+    width: 50%;   
+}

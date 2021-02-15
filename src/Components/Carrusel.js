@@ -17,9 +17,8 @@ const Carrusel = () => {
       <div class="carousel carousel-slider center">
         <div class="carousel-fixed-item center">
         </div>
-        <div class="carousel-item red white-text" href="#one!">
+        <div class="carousel-item white white-text" href="#one!">
           <img src={banner} alt=""></img> <h2></h2>
-          <p class="white-text"></p>
         </div>
       </div>
 

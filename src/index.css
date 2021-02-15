@@ -16,3 +16,13 @@ code {
 }
 
 
+.page-footer{
+  display: flex;
+flex-flow: row ;
+align-content:space-between ;
+
+
+}
+
+
+
